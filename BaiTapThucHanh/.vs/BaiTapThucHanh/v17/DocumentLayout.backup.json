@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK5\\LTUDTWD(Mr_Duong)\\BaiTapThucHanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7122F9CD-F155-46AA-A1B5-5BE1DCF40E09}|Mang2Chieu\\Mang2Chieu.csproj|d:\\hk5\\ltudtwd(mr_duong)\\baitapthuchanh\\mang2chieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7122F9CD-F155-46AA-A1B5-5BE1DCF40E09}|Mang2Chieu\\Mang2Chieu.csproj|solutionrelative:mang2chieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D6560B-B8D4-488C-93B6-E4385E37EB39}|MMC_41SGK\\MMC_41SGK.csproj|d:\\hk5\\ltudtwd(mr_duong)\\baitapthuchanh\\mmc_41sgk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D6560B-B8D4-488C-93B6-E4385E37EB39}|MMC_41SGK\\MMC_41SGK.csproj|solutionrelative:mmc_41sgk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK5\\LTUDTWD(Mr_Duong)\\BaiTapThucHanh\\Mang2Chieu\\Program.cs",
+              "RelativeDocumentMoniker": "Mang2Chieu\\Program.cs",
+              "ToolTip": "D:\\HK5\\LTUDTWD(Mr_Duong)\\BaiTapThucHanh\\Mang2Chieu\\Program.cs",
+              "RelativeToolTip": "Mang2Chieu\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T01:54:17.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK5\\LTUDTWD(Mr_Duong)\\BaiTapThucHanh\\MMC_41SGK\\Program.cs",
+              "RelativeDocumentMoniker": "MMC_41SGK\\Program.cs",
+              "ToolTip": "D:\\HK5\\LTUDTWD(Mr_Duong)\\BaiTapThucHanh\\MMC_41SGK\\Program.cs",
+              "RelativeToolTip": "MMC_41SGK\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwHwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:29:25.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
