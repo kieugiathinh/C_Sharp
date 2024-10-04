@@ -1,0 +1,7 @@
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\bin\Debug\Mang2Chieu.exe.config
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\bin\Debug\Mang2Chieu.exe
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\bin\Debug\Mang2Chieu.pdb
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\obj\Debug\Mang2Chieu.csproj.AssemblyReference.cache
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\obj\Debug\Mang2Chieu.csproj.CoreCompileInputs.cache
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\obj\Debug\Mang2Chieu.exe
+D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\Mang2Chieu\obj\Debug\Mang2Chieu.pdb
