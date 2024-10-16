@@ -1,7 +1,0 @@
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\bin\Debug\MMC_41SGK.exe.config
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\bin\Debug\MMC_41SGK.exe
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\bin\Debug\MMC_41SGK.pdb
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\obj\Debug\MMC_41SGK.csproj.AssemblyReference.cache
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\obj\Debug\MMC_41SGK.csproj.CoreCompileInputs.cache
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\obj\Debug\MMC_41SGK.exe
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\MMC_41SGK\obj\Debug\MMC_41SGK.pdb
