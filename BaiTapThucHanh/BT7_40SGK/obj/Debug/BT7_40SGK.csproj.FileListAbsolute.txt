@@ -1,7 +1,0 @@
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\bin\Debug\BT7_SGK.exe.config
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\bin\Debug\BT7_SGK.exe
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\bin\Debug\BT7_SGK.pdb
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\obj\Debug\BT7_40SGK.csproj.AssemblyReference.cache
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\obj\Debug\BT7_40SGK.csproj.CoreCompileInputs.cache
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\obj\Debug\BT7_SGK.exe
-D:\HK5\LTUDTWD(Mr_Duong)\BaiTapThucHanh\BT7_SGK\obj\Debug\BT7_SGK.pdb
