@@ -1,0 +1,9 @@
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\bin\Debug\WF_TTNV.exe.config
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\bin\Debug\WF_TTNV.exe
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\bin\Debug\WF_TTNV.pdb
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.csprojResolveAssemblyReference.cache
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.frmTTNV.resources
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.Properties.Resources.resources
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.csproj.GenerateResource.Cache
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.exe
+D:\110122167_KieuGiaThinh\BaiTapThucHanh\WF_TTNV\obj\Debug\WF_TTNV.pdb
